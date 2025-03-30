@@ -14,7 +14,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="dotnet" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img align="center" alt="redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/redis/redis-original.svg">
+  <img align="center" alt="rabbitmq" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/rabbitmq/rabbitmq-original.svg">
+  <img align="center" alt="dynamo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/dynamodb/dynamodb-original.svg">
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="mssqlserver" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
 </div>
